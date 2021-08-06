@@ -1,0 +1,72 @@
+[
+  {
+    "id": "0",
+    "name": "Ariel",
+    "category": "Princesas",
+    "price": "100.00",
+    "image": "/assets/ariel.jpeg"
+  },
+  {
+    "id": "1",
+    "name": "Bela",
+    "category": "Princesas",
+    "price": "65.00",
+    "image": "/assets/Bela.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Vaso de rosa",
+    "category": "Plantas",
+    "price": "47.25",
+    "image": "../../assets/Rosa.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Cacto pequeno",
+    "category": "Plantas",
+    "price": "63.00",
+    "image": "../../assets/Cacto1.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Cacto",
+    "category": "Plantas",
+    "price": "70.00",
+    "image": "../../assets/Cacto2.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Dumbledore",
+    "category": "Harry Potter",
+    "price": "100.00",
+    "image": "../../assets/Dumbledore.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Hermione",
+    "category": "Harry Potter",
+    "price": "50.00",
+    "image": "../../assets/HermionePequena.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Ron",
+    "category": "Harry Potter",
+    "price": "75.00",
+    "image": "../../assets/Ron.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Snape",
+    "category": "Harry Potter",
+    "price": "100.00",
+    "image": "../../assets/Snape.jpeg"
+  },
+  {
+    "id": "9",
+    "name": "Clips de flor",
+    "category": "Plantas",
+    "price": "8.00",
+    "image": "../../assets/Flor.jpeg"
+  }
+]
